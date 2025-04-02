@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roybipro
-- 👀 I’m interested in ML and cybersecurity
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning Python 
 
 
 <!--- - 💞️ I’m looking to collaborate on ...
