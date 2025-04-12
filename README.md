@@ -1,21 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22621
-Fork on GitHub
-7464
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Bipro Roy</h1>
-<h3 align="center">🎓 I'm a Computer Science student from Bangladesh. 🔬 I'm passionate about **AI, Machine Learning**, and getting into **research and freelancing** in these fields. 🏁 I’m also deeply interested in **Formula 1** and dream of combining my CS skills with motorsport one day.</h3>
+<h3 align="center">🎓 I'm a Computer Science student from Bangladesh. 
+  🔬 I'm passionate about **AI, Machine Learning**, and getting into **research and freelancing** in these fields. 
+  🏁 I’m also deeply interested in **Formula 1** and dream of combining my CS skills with motorsport one day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20views&color=0e75b6&style=flat" alt="roybipro" /> </p>
 
@@ -48,29 +35,3 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roybipro&show_icons=true&locale=en&layout=compact" alt="roybipro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&locale=en" alt="roybipro" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-Ask AI
