@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **[roybipro896@gmail.com](23-540793@student.aiub.edu)**
  
+## 📊 GitHub Contributions
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=roybipro&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 
