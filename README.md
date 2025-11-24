@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roybipro&label=Neon%20Profile%20Scans&color=00f5ff&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20Scans&color=00f5ff&style=flat">
 </p>
 
 ---
@@ -24,9 +24,7 @@ I’m a computer science student obsessed with AI systems, deep learning models,
 Trying to fuse both worlds: machine learning + motorsport performance.
 
 **Current Work:** TensorFlow, PyTorch, Deep Learning  
-**Learning:** Python, NumPy, Pandas, algorithms, research basics  
-**Building:** AI speaking bot  
-**Ask me:** C++, DSA  
+**Learning:** Python, NumPy, Pandas, algorithms, research basics    
 **Contact:** `roybipro896@gmail.com`
 
 ---
