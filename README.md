@@ -1,68 +1,94 @@
+<!-- Neon Header -->
+<h1 align="center">
+  <span style="color:#00f5ff;">⚡ Bipro Roy ⚡</span>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Bipro Roy</h1>
-<h3 align="center">🎓 I'm a Computer Science student from Bangladesh. 
-  🔬 I'm passionate about **AI, Machine Learning**, and getting into **research and freelancing** in these fields. 
-  🏁 I’m also deeply interested in **Formula 1** and dream of combining my CS skills with motorsport one day.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20views&color=0e75b6&style=flat" alt="roybipro" /> </p>
-
-- 🔭 I’m currently working on **Deep Learning, TensorFlow, PyTorch**
-
-- 🌱 I’m currently learning **Deep Learning,Python,TensorFlow,PyTorch,NumPy,Panda**
-
-- 🤝 I’m looking for help with **AI speaking bot**
-
-- 💬 Ask me about **DSA,C++**
-
-- 📫 How to reach me **[roybipro896@gmail.com](23-540793@student.aiub.edu)**
- 
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://dev.to/roybipro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roybipro" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/roy_bipro_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_bipro_" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/roy-bipro/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy-bipro" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/23432146/bipro-roy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bipro-roy on Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/roybipro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roybipro on Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@bipro_raw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bipro_raw on YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/roybipro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roybipro on HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/bipro.raw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bipro.raw on Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/roybipro" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roybipro on GeeksforGeeks" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%2F+Deep+Learning+Explorer;Future+F1+Tech+Engineer;Robotics+%26+ML+Research+Learner;Speed+Meets+Code+%7C+Data+Meets+Drive" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roybipro&label=Neon%20Profile%20Scans&color=00f5ff&style=flat">
+</p>
 
-## 📈 GitHub Contributions
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roybipro&theme=tokyo-night)
+<!-- F1 Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
+</p>
 
+## 🚀 Identity Code
 
-## 📈 GitHub Stats
-![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=radical)
+I’m a computer science student obsessed with AI systems, deep learning models, and the high-precision engineering behind Formula 1.  
+Trying to fuse both worlds: machine learning + motorsport performance.
 
-## 🔥 GitHub Streak
+**Current Work:** TensorFlow, PyTorch, Deep Learning  
+**Learning:** Python, NumPy, Pandas, algorithms, research basics  
+**Building:** AI speaking bot  
+**Ask me:** C++, DSA  
+**Contact:** `roybipro896@gmail.com`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=roybipro&theme=radical&hide_border=true)](https://git.io/streak-stats)
+---
 
+## 🛸 Futuristic Network – Connect with Me
+
+<p align="center">
+  <a href="https://dev.to/roybipro"><img src="https://skillicons.dev/icons?i=devto&theme=light" width="45"></a>
+  <a href="https://twitter.com/roy_bipro_"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="45"></a>
+  <a href="https://linkedin.com/in/roy-bipro"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="45"></a>
+  <a href="https://stackoverflow.com/users/23432146/bipro-roy"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" width="45"></a>
+  <a href="https://kaggle.com/roybipro"><img src="https://skillicons.dev/icons?i=kaggle&theme=light" width="45"></a>
+  <a href="https://www.youtube.com/@bipro_raw"><img src="https://skillicons.dev/icons?i=youtube&theme=light" width="45"></a>
+  <a href="https://hackerrank.com/roybipro"><img src="https://skillicons.dev/icons?i=hackerrank&theme=light" width="45"></a>
+  <a href="https://codeforces.com/profile/bipro.raw"><img src="https://skillicons.dev/icons?i=codeforces&theme=light" width="45"></a>
+</p>
+
+---
+
+## 🧠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux,tensorflow,pytorch,sklearn,mysql,postgresql,docker&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,postman,arduino,vscode,androidstudio&theme=light" />
+</p>
+
+---
+
+## 🛰 Neural Activity Feed – GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roybipro&theme=react-dark&area=true&hide_border=true">
+</p>
+
+---
+
+## ⚡ Performance Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## 🔥 Heat Map Streak – Engine Temperature
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=roybipro&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+<!-- Futuristic Footer Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="90%">
+</p>
+
+## 🏁 Final Lap
+
+Trying to build a career where **AI systems**, **robotics**, and **F1 engineering** overlap.  
+The goal is somewhere between predictive racing models, telemetry analytics, and smarter machines.
