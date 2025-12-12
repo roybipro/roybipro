@@ -83,7 +83,7 @@ Trying to fuse both worlds: machine learning + motorsport performance.
 
 <!-- Futuristic Footer Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="90%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
 </p>
 
 ## 🏁 Final Lap
