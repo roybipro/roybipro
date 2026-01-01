@@ -1,92 +1,116 @@
-<!-- Neon Header -->
-<h1 align="center">
-  <span style="color:#00f5ff;">⚡ Bipro Roy ⚡</span>
-</h1>
+# ⚡ Bipro Roy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%2F+Deep+Learning+Explorer;Future+F1+Tech+Engineer;Robotics+%26+ML+Research+Learner;Speed+Meets+Code+%7C+Data+Meets+Drive" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+%26+Machine+Learning+Learner;Web+Development+Enthusiast;Building+Skills+One+Project+at+a+Time" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20Scans&color=00f5ff&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20Views&color=3B82F6&style=flat" />
 </p>
 
 ---
 
-<!-- F1 Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
-</p>
+## 👋 About Me
 
-## 🚀 Identity Code
+I’m a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, and Web Development**.  
+I focus on building **strong fundamentals** through projects, algorithms, and real-world problem solving.
 
-I’m a computer science student obsessed with AI systems, deep learning models, and the high-precision engineering behind Formula 1.  
-Trying to fuse both worlds: machine learning + motorsport performance.
+- 🎓 Computer Science Student  
+- 🤖 Learning **AI & Machine Learning**
+- 🌐 Exploring **Full-Stack Web Development**
+- 🧠 Interested in **research & applied systems**
 
-**Current Work:** TensorFlow, PyTorch, Deep Learning  
-**Learning:** Python, NumPy, Pandas, algorithms, research basics    
-**Contact:** `roybipro896@gmail.com`
+📧 **Email:** `roybipro896@gmail.com`
 
 ---
 
-## 🛸 Futuristic Network – Connect with Me
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dev.to/roybipro"><img src="https://skillicons.dev/icons?i=devto&theme=light" width="45"></a>
-  <a href="https://twitter.com/roy_bipro_"><img src="https://skillicons.dev/icons?i=twitter&theme=light" width="45"></a>
-  <a href="https://linkedin.com/in/roy-bipro"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="45"></a>
-  <a href="https://stackoverflow.com/users/23432146/bipro-roy"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" width="45"></a>
-  <a href="https://kaggle.com/roybipro"><img src="https://skillicons.dev/icons?i=kaggle&theme=light" width="45"></a>
-  <a href="https://www.youtube.com/@bipro_raw"><img src="https://skillicons.dev/icons?i=youtube&theme=light" width="45"></a>
-  <a href="https://hackerrank.com/roybipro"><img src="https://skillicons.dev/icons?i=hackerrank&theme=light" width="45"></a>
-  <a href="https://codeforces.com/profile/bipro.raw"><img src="https://skillicons.dev/icons?i=codeforces&theme=light" width="45"></a>
+  <a href="https://github.com/roybipro"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://linkedin.com/in/roy-bipro"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://dev.to/roybipro"><img src="https://skillicons.dev/icons?i=devto" width="45" /></a>
+  <a href="https://stackoverflow.com/users/23432146/bipro-roy"><img src="https://skillicons.dev/icons?i=stackoverflow" width="45" /></a>
+  <a href="https://kaggle.com/roybipro"><img src="https://skillicons.dev/icons?i=kaggle" width="45" /></a>
+  <a href="https://www.youtube.com/@bipro_raw"><img src="https://skillicons.dev/icons?i=youtube" width="45" /></a>
 </p>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🛠️ Skills & Tools
 
+### 💻 Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux,tensorflow,pytorch,sklearn,mysql,postgresql,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux" />
 </p>
 
+### 🤖 AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,postman,arduino,vscode,androidstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
 </p>
 
----
-
-## 🛰 Neural Activity Feed – GitHub Contributions
-
+### 🌐 Web Development
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roybipro&theme=react-dark&area=true&hide_border=true">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
 </p>
 
----
-
-## ⚡ Performance Telemetry
-
+### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,postman,vscode" />
 </p>
 
 ---
 
-## 🔥 Heat Map Streak – Engine Temperature
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=roybipro&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roybipro&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+## 📊 GitHub Stats
 
-<!-- Futuristic Footer Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=react&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
+---
 
-## 🏁 Final Lap
+## 🔥 GitHub Streak
 
-Trying to build a career where **AI systems**, **robotics**, and **F1 engineering** overlap.  
-The goal is somewhere between predictive racing models, telemetry analytics, and smarter machines.
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=roybipro&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+---
+
+## 🎯 Current Focus
+
+- 📘 Data Structures & Algorithms  
+- 🤖 Machine Learning fundamentals  
+- 🧠 Deep Learning (CNNs, basic NLP)
+- 🌐 Full-stack web projects  
+- 📂 Consistent GitHub contributions
+
+---
+
+## 🚀 Goals
+
+- Build **end-to-end AI & web projects**
+- Contribute to **open-source**
+- Improve **problem-solving & system design**
+- Prepare for **internships & research roles**
+
+---
+
+⭐ *Thanks for visiting my profile — feel free to connect or collaborate!*
