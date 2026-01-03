@@ -71,26 +71,15 @@ I focus on building **strong fundamentals** through projects, algorithms, and re
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=react&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roybipro&layout=compact&theme=react&hide_border=true" height="165"/>
 </p>
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=roybipro&theme=react&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=roybipro&theme=react&hide_border=true"/>
 </p>
 ---
 
