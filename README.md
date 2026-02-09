@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About  Me
 
 I’m a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, and Web Development**.  
 I focus on building **strong fundamentals** through projects, algorithms, and real-world problem solving.
