@@ -191,6 +191,9 @@ A collection of implementations covering:
 ---
 
 ## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roybipro&theme=react-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img
