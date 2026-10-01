@@ -7,12 +7,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/roybipro">
-    <img src="https://komarev.com/ghpvc/?username=roybipro&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
