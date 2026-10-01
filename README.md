@@ -199,22 +199,25 @@ A collection of implementations covering:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="GitHub profile summary: total commits, stars, pull requests, issues and a contribution calendar"
-    width="70%"
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/assets/graph/contribution-activity.svg"
+    alt="Contribution activity graph for the last 31 days"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Top languages by repository"
-    width="49%"
+    src="https://streak-stats.demolab.com?user=roybipro&theme=github_dark&hide_border=true&border_radius=10&card_width=860"
+    alt="GitHub streak: total contributions, current streak and longest streak"
+    width="100%"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    alt="Top languages by commit"
-    width="49%"
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub profile summary: total commits, stars, pull requests, issues and a contribution calendar"
+    width="70%"
   />
 </p>
 
@@ -225,8 +228,21 @@ A collection of implementations covering:
     width="49%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=roybipro&theme=github_dark&hide_border=true&border_radius=10"
-    alt="GitHub streak: total contributions, current streak and longest streak"
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Top languages by repository"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Top languages by commit"
+    width="49%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Most productive hours of the day"
     width="49%"
   />
 </p>

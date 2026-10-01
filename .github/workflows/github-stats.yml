@@ -35,7 +35,15 @@ jobs:
           BRANCH_NAME: stats
           THEME: github_dark
           EXCLUDE_REPOS: roybipro/roybipro
+          UTC_OFFSET: "6"
           AUTO_PUSH: "false"
+
+      - name: Generate contribution activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-dark&hide_border=true&border_radius=10
+          output_path: assets/graph/contribution-activity.svg
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
