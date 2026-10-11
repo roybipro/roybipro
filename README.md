@@ -223,26 +223,21 @@ A collection of implementations covering:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub stats: commits, stars, pull requests, issues and repositories reviewed"
-    width="49%"
-  />
-  <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Top languages by repository"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=onedark&hide_border=true"
+    alt="Roy Bipro's GitHub stats: rank, total stars earned, commits, pull requests, issues and repositories contributed to"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    alt="Top languages by commit"
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Top languages by repository"
     width="49%"
   />
   <img
-    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/4-productive-time.svg"
-    alt="Most productive hours of the day"
+    src="https://raw.githubusercontent.com/roybipro/roybipro/stats/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Top languages by commit"
     width="49%"
   />
 </p>
