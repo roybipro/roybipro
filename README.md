@@ -223,7 +223,7 @@ A collection of implementations covering:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=onedark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=roybipro&show_icons=true&theme=onedark&hide_border=true&card_width=860"
     alt="Roy Bipro's GitHub stats: rank, total stars earned, commits, pull requests, issues and repositories contributed to"
     width="100%"
   />
